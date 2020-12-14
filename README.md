@@ -1,4 +1,4 @@
-# Dev Portfolio
+# My Portfolio
 
 🚀 **[My Portfolio has arrived. Meet Devfolio, a modern portfolio + blog template built with GatsbyJS and TailwindCSS](https://github.com/adiferianto/adiferianto.github.io)** 🚀
 
